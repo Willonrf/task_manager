@@ -1,102 +1,102 @@
 [
     {
         "id": "seed-01",
-        "titulo": "Revisar PR de autenticação",
-        "descricao": "Verificar se a validação do JWT está a cobrir todos os casos de borda."
+        "titulo": "Resolver lista de Matemática",
+        "descricao": "Terminar os exercícios de equações de 2º grau da página 45."
     },
     {
         "id": "seed-02",
-        "titulo": "Configurar CI/CD com GitHub Actions",
-        "descricao": "Garantir que os testes do Vitest e o linting rodem em cada push."
+        "titulo": "Resumo de História",
+        "descricao": "Fazer um mapa mental sobre as causas da Revolução Francesa para a prova."
     },
     {
         "id": "seed-03",
-        "titulo": "Criar Dockerfile multi-stage",
-        "descricao": "Otimizar a imagem do Next.js usando a build standalone."
+        "titulo": "Relatório de Química",
+        "descricao": "Digitar as observações da experiência de titulação feita no laboratório."
     },
     {
         "id": "seed-04",
-        "titulo": "Refatorar modal de exclusão",
-        "descricao": "Mover a lógica de estado para fora do componente visual."
+        "titulo": "Ler 'Dom Casmurro'",
+        "descricao": "Ler os capítulos 10 a 15 para o debate na aula de Literatura de sexta-feira."
     },
     {
         "id": "seed-05",
-        "titulo": "Comprar café em grãos",
-        "descricao": "Prioridade máxima. Sem café não há código."
+        "titulo": "Trabalho de Geografia",
+        "descricao": "Pesquisar imagens e dados sobre os biomas brasileiros para o cartaz."
     },
     {
         "id": "seed-06",
-        "titulo": "Implementar Infinite Scroll",
-        "descricao": "Usar react-intersection-observer integrado com a rota listTask do tRPC."
+        "titulo": "Estudar para Física",
+        "descricao": "Revisar as fórmulas de cinemática e leis de Newton."
     },
     {
         "id": "seed-07",
-        "titulo": "Escrever testes para o TaskItem",
-        "descricao": "Atingir 100% de cobertura verificando os callbacks onEdit e onDelete."
+        "titulo": "Redação semanal",
+        "descricao": "Escrever uma dissertação-argumentativa sobre o impacto das redes sociais."
     },
     {
         "id": "seed-08",
-        "titulo": "Atualizar dependências",
-        "descricao": "Verificar se há breaking changes no Tailwind v4 ou no Next.js."
+        "titulo": "Workbook de Inglês",
+        "descricao": "Completar as lições de gramática das unidades 3 e 4."
     },
     {
         "id": "seed-09",
-        "titulo": "Estudar Clean Architecture",
-        "descricao": "Ler o capítulo sobre adaptadores de interface e injeção de dependências."
+        "titulo": "Preparar Seminário de Sociologia",
+        "descricao": "Criar os slides sobre as desigualdades sociais e dividir as falas do grupo."
     },
     {
         "id": "seed-10",
-        "titulo": "Documentar projeto no README",
-        "descricao": "Destacar a stack tecnológica, comandos do Docker e testes."
+        "titulo": "Fichamento de Filosofia",
+        "descricao": "Fazer o fichamento do texto sobre o Mito da Caverna de Platão."
     },
     {
         "id": "seed-11",
-        "titulo": "Corrigir bug no Safari mobile",
-        "descricao": "O botão de apagar está a sobrepor o texto em ecrãs menores."
+        "titulo": "Comprar material de Artes",
+        "descricao": "Passar na papelaria para comprar cartolina, tinta guache e pincéis para a maquete."
     },
     {
         "id": "seed-12",
-        "titulo": "Pagar fatura da AWS",
-        "descricao": "Vence hoje! Não esquecer de verificar o relatório de custos."
+        "titulo": "Devolver livros na biblioteca",
+        "descricao": "Entregar o livro de Machado de Assis antes que vença o prazo de devolução."
     },
     {
         "id": "seed-13",
-        "titulo": "Configurar ESLint rigoroso",
-        "descricao": "Remover todos os avisos de tipagem explícita 'any' nos mocks de teste."
+        "titulo": "Reunião da Feira de Ciências",
+        "descricao": "Encontrar o grupo no intervalo para decidir o tema do nosso projeto anual."
     },
     {
         "id": "seed-14",
-        "titulo": "Reunião de Daily (10h)",
-        "descricao": "Apresentar o progresso do desafio técnico para a equipa."
+        "titulo": "Exercícios de Biologia",
+        "descricao": "Responder o questionário sobre genética e cruzamento de ervilhas."
     },
     {
         "id": "seed-15",
-        "titulo": "Otimizar tempo de build",
-        "descricao": "Analisar por que o estágio do TypeScript está a demorar mais de 3 segundos."
+        "titulo": "Traduzir texto de Espanhol",
+        "descricao": "Traduzir o artigo sobre a cultura andina e grifar os falsos cognatos."
     },
     {
         "id": "seed-16",
-        "titulo": "Configurar base de dados",
-        "descricao": "Preparar a migração de memória (array) para PostgreSQL."
+        "titulo": "Inscrever-se na Feira de Profissões",
+        "descricao": "Preencher o formulário online para garantir vaga nas palestras da faculdade."
     },
     {
         "id": "seed-17",
-        "titulo": "Responder emails",
-        "descricao": "Limpar a caixa de entrada antes do final do dia."
+        "titulo": "Revisar anotações de Gramática",
+        "descricao": "Estudar as regras de crase e pontuação para o simulado do fim do mês."
     },
     {
         "id": "seed-18",
-        "titulo": "Testar integração de erros",
-        "descricao": "Garantir que as notificações (toast.error) apareçam quando o tRPC falha."
+        "titulo": "Organizar caderno e mochila",
+        "descricao": "Colar as folhas soltas, apontar os lápis e separar os cadernos de amanhã."
     },
     {
         "id": "seed-19",
-        "titulo": "Limpar logs e consola",
-        "descricao": "Remover todos os console.log esquecidos durante o debug."
+        "titulo": "Pesquisa de Atualidades",
+        "descricao": "Ler as principais notícias da semana para usar como argumento nos debates."
     },
     {
         "id": "seed-20",
-        "titulo": "Fazer deploy do portfólio",
-        "descricao": "Subir o projeto final e partilhar o link na rede profissional."
+        "titulo": "Treino para o Interclasse",
+        "descricao": "Lembrar de levar o uniforme e as chuteiras para o treino de futsal depois da aula."
     }
 ]
