@@ -1,0 +1,102 @@
+[
+    {
+        "id": "seed-01",
+        "titulo": "Revisar PR de autenticação",
+        "descricao": "Verificar se a validação do JWT está a cobrir todos os casos de borda."
+    },
+    {
+        "id": "seed-02",
+        "titulo": "Configurar CI/CD com GitHub Actions",
+        "descricao": "Garantir que os testes do Vitest e o linting rodem em cada push."
+    },
+    {
+        "id": "seed-03",
+        "titulo": "Criar Dockerfile multi-stage",
+        "descricao": "Otimizar a imagem do Next.js usando a build standalone."
+    },
+    {
+        "id": "seed-04",
+        "titulo": "Refatorar modal de exclusão",
+        "descricao": "Mover a lógica de estado para fora do componente visual."
+    },
+    {
+        "id": "seed-05",
+        "titulo": "Comprar café em grãos",
+        "descricao": "Prioridade máxima. Sem café não há código."
+    },
+    {
+        "id": "seed-06",
+        "titulo": "Implementar Infinite Scroll",
+        "descricao": "Usar react-intersection-observer integrado com a rota listTask do tRPC."
+    },
+    {
+        "id": "seed-07",
+        "titulo": "Escrever testes para o TaskItem",
+        "descricao": "Atingir 100% de cobertura verificando os callbacks onEdit e onDelete."
+    },
+    {
+        "id": "seed-08",
+        "titulo": "Atualizar dependências",
+        "descricao": "Verificar se há breaking changes no Tailwind v4 ou no Next.js."
+    },
+    {
+        "id": "seed-09",
+        "titulo": "Estudar Clean Architecture",
+        "descricao": "Ler o capítulo sobre adaptadores de interface e injeção de dependências."
+    },
+    {
+        "id": "seed-10",
+        "titulo": "Documentar projeto no README",
+        "descricao": "Destacar a stack tecnológica, comandos do Docker e testes."
+    },
+    {
+        "id": "seed-11",
+        "titulo": "Corrigir bug no Safari mobile",
+        "descricao": "O botão de apagar está a sobrepor o texto em ecrãs menores."
+    },
+    {
+        "id": "seed-12",
+        "titulo": "Pagar fatura da AWS",
+        "descricao": "Vence hoje! Não esquecer de verificar o relatório de custos."
+    },
+    {
+        "id": "seed-13",
+        "titulo": "Configurar ESLint rigoroso",
+        "descricao": "Remover todos os avisos de tipagem explícita 'any' nos mocks de teste."
+    },
+    {
+        "id": "seed-14",
+        "titulo": "Reunião de Daily (10h)",
+        "descricao": "Apresentar o progresso do desafio técnico para a equipa."
+    },
+    {
+        "id": "seed-15",
+        "titulo": "Otimizar tempo de build",
+        "descricao": "Analisar por que o estágio do TypeScript está a demorar mais de 3 segundos."
+    },
+    {
+        "id": "seed-16",
+        "titulo": "Configurar base de dados",
+        "descricao": "Preparar a migração de memória (array) para PostgreSQL."
+    },
+    {
+        "id": "seed-17",
+        "titulo": "Responder emails",
+        "descricao": "Limpar a caixa de entrada antes do final do dia."
+    },
+    {
+        "id": "seed-18",
+        "titulo": "Testar integração de erros",
+        "descricao": "Garantir que as notificações (toast.error) apareçam quando o tRPC falha."
+    },
+    {
+        "id": "seed-19",
+        "titulo": "Limpar logs e consola",
+        "descricao": "Remover todos os console.log esquecidos durante o debug."
+    },
+    {
+        "id": "seed-20",
+        "titulo": "Fazer deploy do portfólio",
+        "descricao": "Subir o projeto final e partilhar o link na rede profissional."
+    }
+]
